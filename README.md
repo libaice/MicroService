@@ -4,7 +4,7 @@
 
 
 
-项目搭建的是[拉勾教育](kaiwu.lagou.com)的PC站，根据[Martin Flower](https://martinfowler.com/articles/microservices.html)大师在他的文章中的描述：
+项目搭建的是一个教育平台的的PC站，根据[Martin Flower](https://martinfowler.com/articles/microservices.html)大师在他的文章中的描述：
 
 > a particular way of designing software applications as suites of independently deployable services.
 
